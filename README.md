@@ -1,0 +1,2 @@
+# thecrux_fx
+trading 
