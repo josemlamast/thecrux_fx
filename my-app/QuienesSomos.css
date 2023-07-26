@@ -1,0 +1,49 @@
+.contenedorQuienesSomos_split > div {
+	width: 50%;
+	float: left;
+	background-color: #272323;
+	padding-left: 20px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.contenedorQuienesSomos_split {
+	display: flex;
+}
+.borderLeft {
+	border-left: #391e5b 3px solid;
+}
+.mainQuienesSomos > section > img {
+	width: 100%;
+}
+
+.Proposito,
+.Vision,
+.Mision {
+	padding-top: 70px;
+	display: flex;
+}
+.Proposito > img,
+.Vision > img,
+.Mision > img {
+	max-width: 50% !important;
+	float: left;
+	height: fit-content;
+}
+
+.Proposito > div,
+.Vision > div,
+.Mision > div {
+	max-width: 40%;
+	float: left;
+	margin-left: 30px;
+}
+
+.Proposito > div > h2,
+.Vision > div > h2,
+.Mision > div > h2 {
+	margin-left: 40px;
+}
+
+.Proposito > div > ul {
+	margin-left: 30px;
+}
