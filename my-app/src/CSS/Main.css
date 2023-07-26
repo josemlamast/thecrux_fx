@@ -7,6 +7,10 @@
 	font-family: avian;
 }
 
+body {
+	margin: 0px;
+}
+
 .main_app,
 .menu {
 	background-color: #272323;
